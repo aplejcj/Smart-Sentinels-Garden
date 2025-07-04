@@ -1,0 +1,7 @@
+pefile
+yara-python
+requests
+cryptography
+pandas
+matplotlib
+seaborn

@@ -1,0 +1,7 @@
+{
+    "description": "SHA256 hashes of critical system files that should never be quarantined.",
+    "hashes": [
+        "a4c4803588282b26115998007a833e2133965b7ad52243419056c708e1a72598",
+        "c252f36075e543632940259163b9554e221379b37c0462001a313e6a715a078b"
+    ]
+}

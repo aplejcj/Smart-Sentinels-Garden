@@ -1,0 +1,21 @@
+{
+    "email_settings": {
+        "sender_email": "plankton.nawa@gmail.com",
+        "sender_password": "mbes jdnw xzwh gtnk",
+        "receiver_email": "plankton.nawa@gmail.com"
+    },
+    "encryption_key": "IronForestSecretKeyForAES-256!!",
+    "yara_rules_url": "https://raw.githubusercontent.com/aplejcj/IronForest/main/malware_rules.yar",
+    "observer_addr": "127.0.0.1:10000",
+    "peer_nodes": [
+        "127.0.0.1:9997",
+        "127.0.0.1:9998",
+        "127.0.0.1:9999"
+    ],
+    "gossip_count": 2,
+    "vote_threshold": 2,
+    "risk_threshold": 20,
+    "yara_update_interval_sec": 21600,
+    "state_check_interval_sec": 300,
+    "message_ttl_sec": 60
+}
